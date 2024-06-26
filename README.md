@@ -141,8 +141,8 @@ __________________________________________________________
 
 BruteforceSaveData
 
-1- Open tool
-2- Put your save date file, e.g. D:\backupSly\BCUS98247_SAVE_SLOT_00000\
-3- Click on "Decrypt PFD" (All file)
-4- Apply save edit procedure
-5- Click on "Update PFD" (Full)
+1- Open tool  
+2- Put your save date file, e.g. D:\backupSly\BCUS98247_SAVE_SLOT_00000\  
+3- Click on "Decrypt PFD" (All file)  
+4- Apply save edit procedure  
+5- Click on "Update PFD" (Full)  
